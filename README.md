@@ -2,4 +2,4 @@
 Primer Repositorio creado en GitHub
 
 ## Descripción
-Practica de comando de Git y GitHub
+Practica de comandos de Git y GitHub
