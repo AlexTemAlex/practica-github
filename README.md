@@ -1,2 +1,5 @@
-# practica-github
-Primer Repo creado en GitHub
+# Practica-GitHub
+Primer Repositorio creado en GitHub
+
+## Descripción
+Practica de comando de Git y GitHub
