@@ -1,4 +1,4 @@
 Nombre = "Alex"
 Apellido = "Xav"
-
-print(f"Hola {Nombre} {Apellido}")
+gg = 22
+print(f"Hola {Nombre} {Apellido}, con {gg}")
